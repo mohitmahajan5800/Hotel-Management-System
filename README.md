@@ -9,11 +9,9 @@ Step 4. Then open it in any browser and here we get our static website.**
 DESCRIPTION
 -------
 
-Here we are having a static website for Hotel Management System (College Assignment For Software Engineering))
-it's required project of my college for SOFTWARE ENGINEERING so, I build it. 
-<br>
-<br>
-**Here we are having some short description about the software or product:**
+Here we are having a static website for Hotel Management System (College Assignment For Software Engineering). <br>
+
+**We are having some short description about the software or product:**
 <br>
       This Static website contain the some frontend pages such as: 
 1. [Home Page](https://github.com/mohitrajendramahajan/Hotel-Management-System/blob/main/home.html)

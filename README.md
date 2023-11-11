@@ -19,7 +19,8 @@ it's required project of my college for SOFTWARE ENGINEERING so, I build it.
 8. [Contact Us](https://github.com/mohitrajendramahajan/Hotel-Management-System/blob/main/contactus.html)
 
 <br>
-Here are some overview regarding the frontend:
+Here are some overview regarding the frontend:<br>
 1. Homepage
-![Minion](https://octodex.github.com/images/minion.png)
+<br>
+[Image](https://github.com/mohitrajendramahajan/Hotel-Management-System/blob/main/images/account.jpg)
 

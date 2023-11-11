@@ -22,5 +22,5 @@ it's required project of my college for SOFTWARE ENGINEERING so, I build it.
 Here are some overview regarding the frontend:<br>
 1. Homepage
 <br>
-[Image](https://github.com/mohitrajendramahajan/Hotel-Management-System/blob/main/images/account.jpg)
+![Image](https://github.com/mohitrajendramahajan/Hotel-Management-System/blob/main/images/account.jpg)
 

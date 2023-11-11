@@ -22,5 +22,4 @@ it's required project of my college for SOFTWARE ENGINEERING so, I build it.
 Here are some overview regarding the frontend:<br>
 1. Homepage
 <br>
-![Image](https://raw.githubusercontent.com/mohitrajendramahajan/Hotel-Management-System/main/images/account.jpg)
-
+![account](https://github.com/mohitrajendramahajan/SNAKE-GAME-/assets/103811474/59881643-b5b5-4869-b87c-dd1f5b8d8579)

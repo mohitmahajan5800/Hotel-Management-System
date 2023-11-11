@@ -1,6 +1,6 @@
 # Hotel-Management-System
 Here we are having a static website for Hotel Management System (College Assignment For Software Engineering))
-it's required project of my college for SOFTWARE ENGINEERING so, I build it. 
+it's required project of my college for SOFTWARE ENGINEERING so, I build it. <br>
 **Here we are having some short description about the software or product:**
 ___
 1. Audio only mode
